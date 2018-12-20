@@ -1,5 +1,5 @@
 ###################
-agenda times amadores - Web app to schedu
+schedule for amateur teams
 ###################
 
 Web App  for soccer teams that whants to scheduler games against other teams registered, list view and calendar (fullcalendar)
